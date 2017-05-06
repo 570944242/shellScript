@@ -20,5 +20,6 @@ clear
 echo "nginx defult path : " $(whereis nginx)
 
 # nginx start
+
 cd /usr/local/nginx/sbin
 ./nginx
