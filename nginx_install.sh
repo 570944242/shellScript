@@ -23,3 +23,7 @@ echo "nginx defult path : " $(whereis nginx)
 
 cd /usr/local/nginx/sbin
 ./nginx
+
+# with boot start
+chkconfig --add nginx
+chkconfig nginx on
