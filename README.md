@@ -3,7 +3,6 @@
 
 ## 介绍
   * 为了更简单的使用linux
-## 脚本列表
-  1. nginx_install.sh 在centos6.5下测试通过
-  ### 记录
+### 1. nginx_install.sh 在centos6.5下测试通过
+#### 记录
   1. 17/5/6 仅仅实现功能
