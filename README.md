@@ -7,3 +7,5 @@
  使用:不需要参数,在centos下安装nginx
 ### 2. showuser.sh
  使用:不需要参数,打印用户列表(用户名，userid,groupid)
+### 3.is_exist.sh
+ 使用:需要文件名,判断文件是否存在
