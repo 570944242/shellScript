@@ -2,8 +2,8 @@
 > 转载请注明出处[作者博客](http://www.aiplay.top)
 
 ## 介绍
-  * 为了更简单的使用linux
-  * 格式 脚本名+使用方法
+* 为了更简单的使用linux
+* 格式 脚本名+使用方法
 ### 1. nginx_install.sh
  不需要参数,在centos下安装nginx
 ### 2. showuser.sh
