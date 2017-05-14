@@ -3,11 +3,15 @@
 
 ## 介绍
   * 为了更简单的使用linux
+  * 格式 脚本名+使用方法
 ### 1. nginx_install.sh
- 使用:不需要参数,在centos下安装nginx
+ 不需要参数,在centos下安装nginx
 ### 2. showuser.sh
- 使用:不需要参数,打印用户列表(用户名，userid,groupid)
+ 不需要参数,打印用户列表(用户名，userid,groupid)
 ### 3. is_exist.sh
- 使用:需要文件名,判断文件是否存在
+ 需要文件名,判断文件是否存在
 ### 4. is_dir_exist.sh
- 使用:判断文件夹是否存在,参数文件夹名
+ 判断文件夹是否存在,参数文件夹名
+### 5. addbin.sh
+ 编译c源文件,并添加到~/bin目录下,参数1:C源文件,参数2:命令名
+ eg: addbin.sh cls.c cls
