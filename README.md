@@ -15,3 +15,5 @@
 ### 5. addbin.sh
  编译c源文件,并添加到~/bin目录下,参数1:C源文件,参数2:命令名
  eg: addbin.sh cls.c cls
+### 6. printUsage.sh
+ 打印硬盘和内存的使用情况不需要参数
