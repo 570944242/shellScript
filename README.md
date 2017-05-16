@@ -17,3 +17,6 @@
  eg: addbin.sh cls.c cls
 ### 6. printUsage.sh
  打印硬盘和内存的使用情况不需要参数
+### 7. lamp.sh
+ 不需要参数,centos6.5下安装lamp环境
+
