@@ -25,5 +25,4 @@ cd /usr/local/nginx/sbin
 ./nginx
 
 # with boot start
-chkconfig --add nginx
-chkconfig nginx on
+chkconfig --level 3 nginx start
