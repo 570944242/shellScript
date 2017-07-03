@@ -25,4 +25,5 @@
 参数1 文件名 创建新文件并切换
 ### 9. autoPull.sh
  不需要参数，每隔一分钟pull一次
-
+### 10. ftp_install.sh
+ 不需要参数，用来在centos6.5下安装vsftpd服务
