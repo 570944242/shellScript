@@ -29,3 +29,5 @@
  不需要参数，用来在centos6.5下安装vsftpd服务
 ### 11. printip.sh
  根据设备名打印IP
+### 12. rename.sh
+ 批量修改文件名
